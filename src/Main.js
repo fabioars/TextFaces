@@ -11,7 +11,7 @@ class Main extends Component {
         return (
             <View>
                 <Header title="FONTFACES" />
-                <FacesList faces={faces} categoryIndex={0} />
+                <FacesList faces={faces[0].items} />
             </View>
         );
     }
