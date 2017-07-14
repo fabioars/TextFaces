@@ -16,7 +16,6 @@ const styles = {
     },
     titleStyle: {
         color: '#fff',
-        
         fontWeight: '100',
         fontSize: 22,
         ...Platform.select({
