@@ -53,6 +53,7 @@ class FacesList extends Component {
     render() {
         return (
             <ListView
+                style={this.props.style}
                 dataSource={this.dataSource}
                 renderRow={this.renderFaces}
             />
