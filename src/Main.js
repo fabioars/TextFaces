@@ -9,9 +9,10 @@ class Main extends Component {
 
     render() {
         return (
-            <View>
+            <View style={{ flex: 1 }}>
                 <Header title="FONTFACES" />
                 <FacesList faces={faces[0].items} />
+                <Header title="<3" />
             </View>
         );
     }

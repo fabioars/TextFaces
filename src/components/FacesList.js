@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, ListView } from 'react-native';
+import { Text, ListView, Clipboard, Share } from 'react-native';
 import Card from './Card';
 
 import clipboard from '../img/clipboard.png';
@@ -20,25 +20,25 @@ class FacesList extends Component {
         this.dataSource = ds.cloneWithRows(faces);
     }
 
-    renderFaces({ name, art }) {
+    renderFaces({ art }) {
         const actions = { 
             list: [
                 { 
                     name: 'SHARE', 
                     icon: share,
                     key: 'share',
-                    value: name,
-                    callback: ({ key, value }) => {
-                        console.log(key, value);
+                    value: art,
+                    callback: ({ value }) => {
+                        Share.share({ message: value, url: '' }, { dialogTitle: 'Share with your buddies' });
                     }
                 },
                 { 
                     name: 'COPY', 
                     icon: clipboard,
                     key: 'copy',
-                    value: name,
-                    callback: ({ key, value }) => {
-                        console.log(key, value);
+                    value: art,
+                    callback: ({ value }) => {
+                        Clipboard.setString(value);
                     }
                 }
             ]
@@ -46,7 +46,7 @@ class FacesList extends Component {
 
         return (
             <Card actions={actions}>
-                <Text>{art}</Text>
+                <Text style={styles.facesStyle}>{art}</Text>
             </Card>
         );
     }
@@ -59,5 +59,11 @@ class FacesList extends Component {
         );
     }
 }
+
+const styles = {
+    facesStyle: {
+        fontSize: 28
+    }
+};
 
 export default FacesList;
