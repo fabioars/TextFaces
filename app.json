@@ -1,6 +1,18 @@
 {
   "expo": {
+    "name": "TextFaces",
+    "icon": "./icons/ic_launcher.png",
+    "version": "1.0.0",
+    "slug": "textfaces",
     "sdkVersion": "18.0.0",
-    "androidStatusBarColor": "#01B9FF"
-  }
+    "androidStatusBarColor": "#01B9FF",
+    "ios": {
+      "bundleIdentifier": "br.com.fabiosoares.textfaces"
+    },
+    "android": {
+      "package": "br.com.fabiosoares.textfaces"
+    }
+  },
+  "name": "TextFaces",
+  "displayName": "TextFaces"
 }
