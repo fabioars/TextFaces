@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Text } from 'react-native';
+import { View } from 'react-native';
 import Header from './components/Header';
 import FacesList from './components/FacesList';
 import TabBar from './components/TabBar';
@@ -33,7 +33,7 @@ class Main extends Component {
         const { selected } = this.state;
 
         return (
-            <View style={{ flex: 1, justfyContent: 'space-between' }}>
+            <View style={{ flex: 1 }}>
                 <Header title="TEXTFACES" />
                 <FacesList faces={faces[selected].items} />
                 <TabBar>
