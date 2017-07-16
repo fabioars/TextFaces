@@ -29,7 +29,12 @@ class FacesList extends Component {
                     key: 'share',
                     value: art,
                     callback: ({ value }) => {
-                        Share.share({ message: value, url: '' }, { dialogTitle: 'Share with your buddies' });
+                        Share.share({ 
+                            message: value, 
+                            url: '' 
+                        }, { 
+                            dialogTitle: 'Share with your buddies' 
+                        });
                     }
                 },
                 { 
@@ -63,7 +68,7 @@ class FacesList extends Component {
 
 const styles = {
     facesStyle: {
-        fontSize: 28,
+        fontSize: 32,
         color: '#444'
     }
 };

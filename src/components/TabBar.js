@@ -19,12 +19,12 @@ const styles = {
         maxHeight: 44 
     },
     containerStyle: {
-        // backgroundColor: '#01B9FF',
         backgroundColor: '#01B9FF',
         flexDirection: 'row',
         justifyContent: 'center',
         alignItems: 'center',
-        width: null
+        width: null,
+        elevation: 5
     }
 };
 
