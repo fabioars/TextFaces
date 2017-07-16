@@ -6,3 +6,4 @@ npm-debug.*
 android/app/build
 .gradle/
 *.keystore
+android/build/intermediates/dex-cache/cache.xml

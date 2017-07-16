@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View } from 'react-native';
+import { View, StatusBar } from 'react-native';
 import Header from './components/Header';
 import FacesList from './components/FacesList';
 import TabBar from './components/TabBar';
@@ -34,11 +34,10 @@ class Main extends Component {
 
         return (
             <View style={{ flex: 1 }}>
+                <StatusBar backgroundColor="#018BBF" barStyle="light-content" />
                 <Header title="TEXTFACES" />
-                <FacesList faces={faces[selected].items} />
-                <TabBar>
-                    {this.renderCatergories()}
-                </TabBar> 
+                <TabBar>{this.renderCatergories()}</TabBar> 
+                <FacesList faces={faces[selected].items} /> 
             </View>
         );
     }

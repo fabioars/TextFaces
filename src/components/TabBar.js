@@ -3,7 +3,7 @@ import { View, ScrollView } from 'react-native';
 
 const TabBar = (props) => (
     <ScrollView 
-        style={{ minHeight: 64, maxHeight: 64 }} 
+        style={styles.scrollStyle} 
         horizontal 
         showsHorizontalScrollIndicator={false}
     >
@@ -14,7 +14,12 @@ const TabBar = (props) => (
 );
 
 const styles = {
+    scrollStyle: {
+        minHeight: 64,
+        maxHeight: 64 
+    },
     containerStyle: {
+        // backgroundColor: '#01B9FF',
         backgroundColor: '#01B9FF',
         flexDirection: 'row',
         justifyContent: 'center',

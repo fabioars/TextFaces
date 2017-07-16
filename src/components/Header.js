@@ -9,7 +9,7 @@ const Header = ({ title }) => (
 
 const styles = {
     containerStyle: {
-        minHeight: 64,
+        minHeight: 56,
         backgroundColor: '#01B9FF',
         justifyContent: 'center',
         alignItems: 'center'

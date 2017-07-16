@@ -1,32 +1,45 @@
-import React from 'react';
-import { TouchableWithoutFeedback, Text, View } from 'react-native';
+import React, { Component } from 'react';
+import { 
+    TouchableWithoutFeedback, 
+    Text, 
+    View,
+    UIManager, 
+    LayoutAnimation 
+} from 'react-native';
 
-const TabButton = ({ onPress, children, style, selected }) => (
-    <TouchableWithoutFeedback onPress={onPress} >
-        <View 
-            style={[
-                styles.containerStyle,
-                selectedStyle(selected),
-                style
-            ]}
-        >
-            <Text style={selectedTextStyle(selected)}>{children}</Text>
-        </View>
-    </TouchableWithoutFeedback>
-);
+class TabButton extends Component {
+
+    componentWillReceiveProps() {
+        UIManager.setLayoutAnimationEnabledExperimental 
+            && UIManager.setLayoutAnimationEnabledExperimental(true);
+
+        LayoutAnimation.spring();
+    }
+    render() {
+        const { onPress, children, style, selected } = this.props;
+        return (
+            <TouchableWithoutFeedback onPress={onPress} >
+                <View 
+                    style={[
+                        styles.containerStyle,
+                        selectedStyle(selected),
+                        style
+                    ]}
+                >
+                    <Text style={selectedTextStyle(selected)}>{children}</Text>
+                </View>
+            </TouchableWithoutFeedback>
+        );
+    }
+}
 
 TabButton.defaultProps = {
     selected: false
 };
 
-const selectedStyle = status => (
-    (status) ? styles.selected : styles.unselected
-);
+const selectedStyle = status => ((status) ? styles.selected : styles.unselected);
 
-const selectedTextStyle = status => (
-    (status) ? styles.textSelected : styles.textUnselected
-);
-
+const selectedTextStyle = status => ((status) ? styles.textSelected : styles.textUnselected);
 
 const styles = {
     containerStyle: {
@@ -46,13 +59,13 @@ const styles = {
         backgroundColor: '#fff'
     },
     unselected: {
-        borderColor: '#fff',
+        borderColor: '#fff'
     },
     textSelected: {
-        color: '#01B9FF',
+        color: '#01B9FF'
     },
     textUnselected: {
-        color: '#fff',
+        color: '#fff'
     }
 };
 
