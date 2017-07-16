@@ -15,8 +15,8 @@ const TabBar = (props) => (
 
 const styles = {
     scrollStyle: {
-        minHeight: 64,
-        maxHeight: 64 
+        minHeight: 44,
+        maxHeight: 44 
     },
     containerStyle: {
         // backgroundColor: '#01B9FF',

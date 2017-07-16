@@ -35,7 +35,7 @@ const selectedTextStyle = status => ((status) ? styles.textSelected : styles.tex
 
 const styles = {
     containerStyle: {
-        padding: 10,
+        padding: 5,
         paddingLeft: 20,
         paddingRight: 20,
         marginLeft: 5,
