@@ -63,7 +63,8 @@ class FacesList extends Component {
 
 const styles = {
     facesStyle: {
-        fontSize: 28
+        fontSize: 28,
+        color: '#444'
     }
 };
 

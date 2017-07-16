@@ -2,19 +2,11 @@ import React, { Component } from 'react';
 import { 
     TouchableWithoutFeedback, 
     Text, 
-    View,
-    UIManager, 
-    LayoutAnimation 
+    View 
 } from 'react-native';
 
 class TabButton extends Component {
 
-    componentWillReceiveProps() {
-        UIManager.setLayoutAnimationEnabledExperimental 
-            && UIManager.setLayoutAnimationEnabledExperimental(true);
-
-        LayoutAnimation.spring();
-    }
     render() {
         const { onPress, children, style, selected } = this.props;
         return (
