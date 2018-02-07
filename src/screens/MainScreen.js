@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import { 
-    FaceList, 
-    TabBar, 
+import {
+    FaceList,
+    TabBar,
     TabButton
 } from '../components';
 
@@ -17,10 +17,11 @@ class MainScreen extends Component {
             selected: 0
         };
     }
+
     renderCatergories() {
         return faces.map((categories, index) => (
-            <TabButton 
-                key={categories.category} 
+            <TabButton
+                key={categories.category}
                 selected={(index === this.state.selected)}
                 onPress={() => {
                     this.setState({ selected: index });
@@ -30,13 +31,14 @@ class MainScreen extends Component {
             </TabButton>
         ));
     }
+    
     render() {
         const { selected } = this.state;
 
         return (
             <View style={{ flex: 1 }}>
-                <TabBar>{this.renderCatergories()}</TabBar> 
-                <FaceList faces={faces[selected].items} /> 
+                <TabBar>{this.renderCatergories()}</TabBar>
+                <FaceList faces={faces[selected].items} />
             </View>
         );
     }

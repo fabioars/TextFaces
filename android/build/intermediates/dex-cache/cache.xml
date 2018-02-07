@@ -8,16 +8,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_9680741be4f302167fda7139665867dffb226d04.jar" />
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_9680741be4f302167fda7139665867dffb226d04.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.0.1_35beb800e2742aeddc2314c1d9794d734e070726.jar" />
+        sha1="b9a51262d663efadea9d0c402a5e76aace2685cb">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.0_7bfead5663baf709a356a8f941dbb76d4ce63f1e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,151 +26,52 @@
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_050ddb610dff9b4e48de54b75656533acc292360.jar" />
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_050ddb610dff9b4e48de54b75656533acc292360.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.0.1_6bd6b419341c60e33326e1fec3a683c5f518fffd.jar" />
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_c5e8738a20ff34e51fcef0873e0824dfea65a905.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/fsoares/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_a3e2a1e6b39a216ebd22cd7fee07f93c33882a6b.jar" />
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_8bd3e0c2a499df6b178dd3e574d81fb7fdcc4d28.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/fsoares/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/home/fsoares/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1_aaa54162fc2b2fab8dca58b52dc9544d8ddffb42.jar" />
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_980aa0e669ef928f60afda54261762648e1d6d03.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/fsoares/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_20821b46c7c4e250698aea71db1c5922a9f5e0de.jar" />
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_75b52f0c846359f583ab725db52f9f9cc2829a5d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.0.1_374d396d89f39da7c7f6c706b2854762f6938d97.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_86b9cdb7f5c35b1affbdb30e703a2b6e1824e975.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1_3674f1ba23b97041db05b4b5fbd682402bc71cd7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_7d809abc2ab1e3302049fa682fe414a934cf970a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="0d3e48e200296061415952a358fad487e129adaa">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.45.1_2965296aedd72820a01020c448a69e8ef95c636a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.0.1_ce4aee1ae046e9a0e9cf749bb1a179178da730de.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.0.1_4611ae71fc0659971ab41b703d8680a17c7d7a98.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_bf40eeaf0cf4a08d29573d7387005ae1373db912.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_487d00f2210ed93976885ebebb8a5f1eef059964.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_837d28a9fefe7dcd62cffc2f6f3f44af82f3ad03.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_0ef4b8167e39d742fbd77b4a96abff6c4b657d82.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_51c7359402bc8d121b46049416af5791db3a2c68.jar" />
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_30deffc07a61faa190509dffb3c26f67605c2832.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,7 +80,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/javax.inject-1_b91f8d7230ca1c1241920bd5abbd292168fcee9d.jar" />
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b91f8d7230ca1c1241920bd5abbd292168fcee9d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -188,7 +89,88 @@
         optimize="true"
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_843665b0c8f025e93777f413fb918536908c43e5.jar" />
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_843665b0c8f025e93777f413fb918536908c43e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_cceada89e61aa27ec39a45473c0d0c9c1563ac70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fsoares/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_aaa54162fc2b2fab8dca58b52dc9544d8ddffb42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c46692931ea706eb2bcb99924097db4f21ff87de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_3674f1ba23b97041db05b4b5fbd682402bc71cd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_bf40eeaf0cf4a08d29573d7387005ae1373db912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fsoares/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_487d00f2210ed93976885ebebb8a5f1eef059964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_414fd2e6fc8f14291b81c7bd0ba61980db84f480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fsoares/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_c2b649943ec91842993b9a72669b842a1e888720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_51c7359402bc8d121b46049416af5791db3a2c68.jar" />
     </item>
     <item
         is-multidex="false"
@@ -197,7 +179,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.1_785412689cb4200f59d0dd5e29c1672016756d58.jar" />
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_785412689cb4200f59d0dd5e29c1672016756d58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fsoares/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/fsoares/Repo/Github/TextFaces/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_fb00bdd0e0fc724349f6dc51cd4afc778341713c.jar" />
     </item>
 
 </items>

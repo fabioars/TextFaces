@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, ListView, Clipboard, Share } from 'react-native';
+import { Text, ListView, Clipboard, Share, ToastAndroid } from 'react-native';
 import Card from './Card';
 
 import clipboard from '../img/clipboard.png';
@@ -15,35 +15,41 @@ class FacesList extends Component {
     }
 
     createDataSource(faces) {
-        const ds = new ListView.DataSource({ rowHasChanged: (r1, r2) => r1 !== r2 });
+        const ds = new ListView.DataSource({
+            rowHasChanged: (r1, r2) => r1 !== r2
+        });
 
         this.dataSource = ds.cloneWithRows(faces);
     }
 
     renderFaces({ art }) {
-        const actions = { 
+        const actions = {
             list: [
-                { 
-                    name: 'SHARE', 
+                {
+                    name: 'SHARE',
                     icon: share,
                     key: 'share',
                     value: art,
                     callback: ({ value }) => {
-                        Share.share({ 
-                            message: value, 
-                            url: '' 
-                        }, { 
-                            dialogTitle: 'Share with your buddies' 
-                        });
+                        Share.share(
+                            {
+                                message: value,
+                                url: ''
+                            },
+                            {
+                                dialogTitle: 'Share with your buddies'
+                            }
+                        );
                     }
                 },
-                { 
-                    name: 'COPY', 
+                {
+                    name: 'COPY',
                     icon: clipboard,
                     key: 'copy',
                     value: art,
                     callback: ({ value }) => {
                         Clipboard.setString(value);
+                        ToastAndroid.show('Copied', ToastAndroid.SHORT);
                     }
                 }
             ]
