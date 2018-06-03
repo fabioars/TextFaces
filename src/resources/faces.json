@@ -3,114 +3,142 @@
     "category":"Faces",
     "items": [
       {
+        "id": "Oh well!",
         "name": "Oh well!",
         "art" : "¯\\_(ツ)_/¯"
       },
       {
+        "id": "Disapproving Look",
         "name": "Disapproving Look",
         "art":  "ಠ_ಠ"
       },
       {
+        "id": "Disapproving Look 2",
         "name": "Disapproving Look 2",
         "art":  "ఠ_ఠ"
       },
       {
+        "id": "Glasses Smile",
         "name": "Glasses Smile",
         "art":  "ʘ‿ʘ"
       },
       {
+        "id": "Devious Smile",
         "name": "Devious Smile",
         "art":  "ಠ‿ಠ"
       },
       {
+        "id": "Frowning",
         "name": "Frowning",
         "art": "ಠ╭╮ಠ"
       },
       {
+        "id": "Yelling",
         "name": "Yelling",
         "art": "ಠoಠ"
       },
       {
+        "id": "Mustache Man",
         "name": "Mustache Man",
         "art": "ಠ▃ಠ"
       },
       {
+        "id": "Blank Stare",
         "name": "Blank Stare",
         "art": "ರ_ರ"
       },
       {
+        "id": "HUH?",
         "name": "HUH?",
         "art":  "ლ(｀ー´ლ)"
       },
       {
+        "id": "Rosy Cheeks",
         "name": "Rosy Cheeks",
         "art":  "(｡◕‿◕｡)"
       },
       {
+        "id": "hehehe",
         "name": "hehehe",
         "art":  "( ¬‿¬)"
       },
       {
+        "id": "Pointing Out",
         "name": "Pointing Out",
         "art":  "☜(⌒▽⌒)☞"
       },
       {
+        "id": "Haha!",
         "name": "Haha!",
         "art":  "☜(ﾟヮﾟ☜)"
       },
       {
+        "id": "Run Away Crying",
         "name": "Run Away Crying",
         "art":  "ε=ε=ε=┌(;*´Д`)ﾉ"
       },
       {
+        "id": "Cheers",
         "name": "Cheers",
         "art":  "（ ^_^）o自自o（^_^ ）"
       },
       {
+        "id": "Up All Night",
         "name": "Up All Night",
         "art":  "۞_۞"
       },
       {
+        "id": "High",
         "name": "High",
         "art":  "q(❂‿❂)p"
       },
       {
+        "id": "Dazed & Confused",
         "name": "Dazed & Confused",
         "art":  "⊙﹏⊙"
       },
       {
+        "id": "No Clue!",
         "name": "No Clue!",
         "art":  "¯\\_(⊙︿⊙)_/¯"
       },
       {
+        "id": "I Dunno",
         "name": "I Dunno",
         "art":  "¯\\(°_o)/¯ "
       },
       {
+        "id": "Staring Eyes",
         "name": "Staring Eyes",
         "art":  "Ꙭ"
       },
       {
+        "id": "Cat Eyes",
         "name": "Cat Eyes",
         "art": "ф_ф"
       },
       {
+        "id": "Winking",
         "name": "Winking",
         "art": "◕‿↼"
       },
       {
+        "id": "Reaching Down",
         "name": "Reaching Down",
         "art":  "(,,Ծ‸Ծ,,)"
       },
       {
+        "id": "Just Woke up",
         "name": "Just Woke up",
         "art":  "╰(´・｀)ﾉ"
       },
       {
+        "id": "Sleep Walking",
         "name": "Sleep Walking",
         "art":  "(¬º-°)¬"
       },
       {
+        "id": "Disappointed Look",
         "name": "Disappointed Look",
         "art":  "(-_-)"
       }
@@ -120,66 +148,82 @@
     "category": "Emotions",
     "items": [
       {
+        "id": "Angry",
         "name": "Angry",
         "art":  "{{|└(>o< )┘|}}"
       },
       {
+        "id": "Why, God, WHY!?",
         "name": "Why, God, WHY!?",
         "art":  "щ（ﾟДﾟщ）"
       },
       {
+        "id": "In Love",
         "name": "In Love",
         "art":  "♥（｡✿‿✿｡）❤"
       },
       {
+        "id": "In Love 2",
         "name": "In Love 2",
         "art":  "♥‿♥"
       },
       {
+        "id": "Puzzled",
         "name": "Puzzled",
         "art":  "く(＾_・)ゝ"
       },
       {
+        "id": "Mad",
         "name": "Mad",
         "art":  "（　ﾟДﾟ）"
       },
       {
+        "id": "Whatever",
         "name": "Whatever",
         "art":  "（＾～＾）ノ"
       },
       {
+        "id": "Happy",
         "name": "Happy",
         "art":  "ヽ(´▽`)/"
       },
       {
+        "id": "Love at First Sight",
         "name": "Love at First Sight",
         "art":  "꒰♡ˊ͈ ु꒳ ूˋ͈꒱.⑅*♡"
       },
       {
+        "id": "Need A Hug",
         "name": "Need A Hug",
         "art":  "ヽ(´ー｀)ノ"
       },
       {
+        "id": "So Beautiful!",
         "name": "So Beautiful!",
         "art":  "ಥ_ಥ"
       },
       {
+        "id": "Sad / Crying",
         "name": "Sad / Crying",
         "art":  "ಥ﹏ಥ"
       },
       {
+        "id": "Embarrased",
         "name": "Embarrased",
         "art":  "(﹡⌒▽⌒﹡)"
       },
       {
+        "id": "Extra Embarrased",
         "name": "Extra Embarrased",
         "art":  "(/ω＼)"
       },
       {
+        "id": "No Thanks",
         "name": "No Thanks",
         "art": "(ღ˘⌣˘ღ)"
       },
       {
+        "id": "I've Seen The Light",
         "name": "I've Seen The Light",
         "art": "•✞_✞•"
       }
@@ -189,110 +233,137 @@
     "category": "Characters",
     "items": [
       {
+        "id": "Officer",
         "name": "Officer",
         "art":  "(̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄"
       },
       {
+        "id": "PedoBear",
         "name": "PedoBear",
         "art":  "ᶘ ᵒᴥᵒᶅ"
       },
       {
+        "id": "Deal WIth It!",
         "name": "Deal WIth It!",
         "art":  "(⌐■_■)"
       },
       {
+        "id": "Kid Has No Clue",
         "name": "Kid Has No Clue",
         "art":  "٩(͡๏̯͡๏)۶"
       },
       {
+        "id": "No Clue 2",
         "name": "No Clue 2",
         "art": "٩๏̯͡๏۶"
       },
       {
+        "id": "Blob",
         "name": "Blob",
         "art":  "ヽ༼ຈل͜ຈ༽/"
       },
       {
+        "id": "Party Boy",
         "name": "Party Boy",
         "art":  "┗(＾0＾)┓"
       },
       {
+        "id": "Party Time",
         "name": "Party Time",
         "art":  "┏(-_-)┛┗(-_-)┓┗(-_-)┛"
       },
       {
+        "id": "Sparkles!",
         "name": "Sparkles!",
         "art":  "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"
       },
       {
+        "id": "Zoidberg",
         "name": "Zoidberg",
         "art":  "(•ω•)"
       },
       {
+        "id": "Bearing Gifts",
         "name": "Bearing Gifts",
         "art":  "(´・ω・)っ由"
       },
       {
+        "id": "Le Meme",
         "name": "Le Meme",
         "art":  "͡° ͜ʖ ͡°"
       },
       {
+        "id": "Le Meme 2",
         "name": "Le Meme 2",
         "art":  "(͡° ͜ʖ ͡°)"
       },
       {
+        "id": "Winky",
         "name": "Winky",
         "art": "( ͡~ ͜ʖ ͡°)"
       },
       {
+        "id": "Big Nose",
         "name": "Big Nose",
         "art":  "(͡๏̯¿͡๏)"
       },
       {
+        "id": "Baby",
         "name": "Baby",
         "art":  "（⌒◎⌒）"
       },
       {
+        "id": "Asleep",
         "name": "Asleep",
         "art":  "★☽(。￣-￣)"
       },
       {
+        "id": "Singer",
         "name": "Singer",
         "art":  "♪＼(^o^)／♩"
       },
       {
+        "id": "Dancing",
         "name": "Dancing",
         "art":  "〈( ^.^)ノ"
       },
       {
+        "id": "Writing a Note",
         "name": "Writing a Note",
         "art":  "＿〆(。。)"
       },
       {
+        "id": "Waving",
         "name": "Waving",
         "art":  "ヾ(＾∇＾)"
       },
       {
+        "id": "Snowman",
         "name": "Snowman",
         "art":  "☃"
       },
       {
+        "id": "I Am Not A Crook!",
         "name": "I Am Not A Crook!",
         "art": "✌.|•͡˘‿•͡˘|.✌"
       },
       {
+        "id": "Alien",
         "name": "Alien",
         "art": "༺‿༻"
       },
       {
+        "id": "Metalhead",
         "name": "Metalhead",
         "art": "\\m/ d-_-b \\m/"
       },
       {
+        "id": "David Bowie",
         "name": "David Bowie",
         "art": "(･.◤)"
       },
       {
+        "id": "Flying Spaghetti Monster",
         "name": "Flying Spaghetti Monster",
         "art": "~;;o; ° ° ;;o;~"
       }
@@ -302,50 +373,62 @@
     "category": "Table Flip",
     "items": [
       {
+        "id": "Classic Flip",
         "name": "Classic Flip",
         "art":  "(╯°□°）╯︵ ┻━┻"
       },
       {
+        "id": "Angry",
         "name": "Angry",
         "art":  "(ﾉಥ益ಥ）ﾉ﻿ ┻━┻"
       },
       {
+        "id": "One-Handed",
         "name": "One-Handed",
         "art":  "┬──┬﻿ ¯\\_(ツ)"
       },
       {
+        "id": "Double / Scream",
         "name": "Double / Scream",
         "art":  "┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻"
       },
       {
+        "id": "Indifferent",
         "name": "Indifferent",
         "art":  "┬─┬ノ( º _ ºノ)"
       },
       {
+        "id": "Angry",
         "name": "Angry",
         "art":  "(ノಠ益ಠ)ノ彡┻━┻"
       },
       {
+        "id": "Monocle",
         "name": "Monocle",
         "art":  "(╯ಠ_ರೃ)╯︵ ┻━┻"
       },
       {
+        "id": "Person Flip",
         "name": "Person Flip",
         "art":  "(╯°□°）╯︵ /(.□. \\)"
       },
       {
+        "id": "Jake the Dog",
         "name": "Jake the Dog",
         "art":  "(┛❍ᴥ❍﻿)┛彡┻━┻"
       },
       {
+        "id": "Owl Flip",
         "name": "Owl Flip",
         "art":  "(ʘ∇ʘ)ク 彡 ┻━┻"
       },
       {
+        "id": "One-handed",
         "name": "One-handed",
         "art":  "/(ò.ó)┛彡┻━┻"
       },
       {
+        "id": "Trippin' Flip",
         "name": "Trippin' Flip",
         "art":  "(┛◉Д◉)┛彡┻━┻"
       }
@@ -355,22 +438,27 @@
     "category": "Flexing",
     "items": [
       {
+        "id": "Double Flex",
         "name": "Double Flex",
         "art":  "ᕙ(⇀‸↼‶)ᕗ"
       },
       {
+        "id": "Superior Flex",
         "name": "Superior Flex",
         "art":  "ᕙ(`▽´)ᕗ"
       },
       {
+        "id": "One-Arm Flex",
         "name": "One-Arm Flex",
         "art":  "ᕙ( ^ₒ^ c)"
       },
       {
+        "id": "Boxing Champion",
         "name": "Boxing Champion",
         "art":  "ᕦ(ò_ó*)ᕤ"
       },
       {
+        "id": "Happy-Go-Lucky",
         "name": "Happy-Go-Lucky",
         "art": "ᕕ( ᐛ )ᕗ"
       }
@@ -380,62 +468,77 @@
     "category": "Animals",
     "items": [
       {
+        "id": "Cute Bear",
         "name": "Cute Bear",
         "art":  "ʕ•ᴥ•ʔ"
       },
       {
+        "id": "Bear In Headlights",
         "name": "Bear In Headlights",
         "art":  "‹ʕᵒᴥᵒ­­­­­ʔ›﻿"
       },
       {
+        "id": "Grizzly",
         "name": "Grizzly",
         "art":  "ლʕಠᴥಠʔლ"
       },
       {
+        "id": "Bear Hug",
         "name": "Bear Hug",
         "art":  "ʕु•̫͡•ʔु"
       },
       {
+        "id": "Butterfly",
         "name": "Butterfly",
         "art":  "Ƹ̵̡Ӝ̵̨̄Ʒ"
       },
       {
+        "id": "Dog",
         "name": "Dog",
         "art":  "(ᵔᴥᵔ)"
       },
       {
+        "id": "Pig",
         "name": "Pig",
         "art":  "q(￣(oo)￣)p"
       },
       {
+        "id": "Fat Pig",
         "name": "Fat Pig",
         "art":  "^(｀（ ● ●）´ )^"
       },
       {
+        "id": "Cute Pig",
         "name": "Cute Pig",
         "art":  "<(ﾟ´(｡｡)`ﾟ)>"
       },
       {
+        "id": "Angry Cat",
         "name": "Angry Cat",
         "art":  "o(≧o≦)o"
       },
       {
+        "id": "Cat",
         "name": "Cat",
         "art":  "（=ﾟ･ﾟ=）"
       },
       {
+        "id": "Polar Bear",
         "name": "Polar Bear",
         "art":  "(●￣(ｴ)￣ ●)"
       },
       {
+        "id": "Fish",
         "name": "Fish",
         "art":  ">°))))彡"
       },
       {
+        "id": "Swimming Fish",
         "name": "Swimming Fish",
         "art":  "～～ >°))))))))><<"
       },
       {
+        "id": "Octopus",
         "name": "Octopus",
         "art":  "(_/\\_(O O)_/\\_)"
       }
@@ -445,38 +548,47 @@
     "category": "Flip The Bird",
     "items": [
       {
+        "id": "I Don't Care",
         "name": "I Don't Care",
         "art":  "╭∩╮（︶︿︶）╭∩╮"
       },
       {
+        "id": "Crazy Eyes",
         "name": "Crazy Eyes",
         "art":  "┌∩┐(◣_◢)┌∩┐"
       },
       {
+        "id": "Irreverent",
         "name": "Irreverent",
         "art":  "t ( - _ - t )"
       },
       {
+        "id": "Go Away",
         "name": "Go Away",
         "art":  "凸(-_-)凸"
       },
       {
+        "id": "Mad",
         "name": "Mad",
         "art":  "凸 (｀0´)凸"
       },
       {
+        "id": "Rage",
         "name": "Rage",
         "art":  "┌∩┐(﹒︠益﹒︡)┌∩┐"
       },
       {
+        "id": "Steaming",
         "name": "Steaming",
         "art":  "凸(`д´)凸"
       },
       {
+        "id": "Indignant",
         "name": "Indignant",
         "art":  "凸(｀⌒´メ)凸"
       },
       {
+        "id": "Smiley",
         "name": "Smiley",
         "art":  "凸( ͡° ͜ʖ ͡°)凸"
       }
@@ -486,14 +598,17 @@
     "category": "Phrases",
     "items": [
       {
+        "id": "YOLO!",
         "name": "YOLO!",
         "art":  "Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ"
       },
       {
+        "id": "O, RLY?",
         "name": "O, RLY?",
         "art":  "﴾͡๏̯͡๏﴿ O'RLY?"
       },
       {
+        "id": "Love",
         "name": "Love",
         "art":  "ℒℴνℯ"
       }
@@ -503,61 +618,49 @@
     "category": "Objects",
     "items": [
       {
+        "id": "Rose",
         "name": "Rose",
         "art":  "@>--;--"
       },
       {
+        "id": "5 Bucks",
         "name": "5 Bucks",
         "art":  "[̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]"
       },
       {
+        "id": "Small Guns",
         "name": "Small Guns",
         "art":  " ̿ ̿̿'̿'\\̵͇̿̿\\=(•̪○)=/̵͇̿̿/'̿̿ ̿ ̿ ̿"
       },
       {
+        "id": "Large Guns",
         "name": "Large Guns",
         "art":  "̿̿ ̿̿ ̿̿ ̿̿ ̿'̿'\\̵͇̿̿\\з=( ͡° ͜ʖ ͡°)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ "
       },
       {
+        "id": "Submachine Gun",
         "name": "Submachine Gun",
         "art":  "⌐╦╦═─"
       },
       {
+        "id": "Sniper Rifle",
         "name": "Sniper Rifle",
         "art":  "▄︻̷̿┻̿═━一"
       },
       {
+        "id": "Sniper Rifle 2",
         "name": "Sniper Rifle 2",
         "art":  "▄︻̷̿┻̿┳═一"
       },
       {
+        "id": "Cigarette",
         "name": "Cigarette",
         "art":  " ̜ ̳ ̳ ̳ ̳ ͙ ڪ"
       },
       {
+        "id": "To Boldly Go...",
         "name": "To Boldly Go...",
         "art":  "═̷͟═͟ ⊂⁀ ⊃"
-      }
-    ]
-  },
-  {
-    "category": "Embelishments",
-    "items": [
-      {
-        "name": "Border",
-        "art":  "•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•"
-      },
-      {
-        "name": "Heart / Music",
-        "art":  "♪♫•*¨*•.¸¸❤¸¸.•*¨*•♫♪"
-      },
-      {
-        "name": "Customize Text 1",
-        "art":  "˙·٠•●♥ Text ♥●•٠·˙"
-      },
-      {
-        "name": "Customize Text 2",
-        "art":  "•♥•♥•♥•♥•♥ Text ♥•♥•♥•♥•♥•"
       }
     ]
   },
@@ -565,30 +668,37 @@
     "category": "Symbols",
     "items": [
       {
+        "id": "Peace",
         "name": "Peace",
         "art":  "✌"
       },
       {
+        "id": "Flower",
         "name": "Flower",
         "art":  "❀"
       },
       {
+        "id": "Music Note",
         "name": "Music Note",
         "art":  "♫"
       },
       {
+        "id": "Music Note 2",
         "name": "Music Note 2",
         "art":  "♪"
       },
       {
+        "id": "Umbrella",
         "name": "Umbrella",
         "art":  "☂"
       },
       {
+        "id": "Coffee",
         "name": "Coffee",
         "art":  "☕"
       },
       {
+        "id": "Kiss",
         "name": "Kiss",
         "art":  "💋"
       }
@@ -598,6 +708,7 @@
     "category": "Disruptive",
     "items": [
       {
+        "id": "Endless Tears",
         "name": "Endless Tears",
         "art":  "Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠̖͍͚̥͈̮̼͕̠̤̯̻̥̬̗̼̳̤̳̬̪̹͚̞̼̠͕̼̠̦͚̫͔̯̹͉͉̘͎͕̼̣̝͙̱̟̹̩̟̳̦̭͉̮̖̭̣̣̞̙̗̜̺̭̻̥͚͙̝̦̲̱͉͖͉̰̦͎̫̣̼͎͍̠̮͓̹̹͉̤̰̗̙͕͇͔̱͕̭͈̳̗̭͔̘̖̺̮̜̠͖̘͓̳͕̟̠̱̫̤͓͔̘̰̲͙͍͇̙͎̣̼̗̖͙̯͉̠̟͈͍͕̪͓̝̩̦̖̹̼̠̘̮͚̟͉̺̜͍͓̯̳̱̻͕̣̳͉̻̭̭̱͍̪̩̭̺͕̺̼̥̪͖̦̟͎̻̰_Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠̖͍͚̥͈̮̼͕̠̤̯̻̥̬̗̼̳̤̳̬̪̹͚̞̼̠͕̼̠̦͚̫͔̯̹͉͉̘͎͕̼̣̝͙̱̟̹̩̟̳̦̭͉̮̖̭̣̣̞̙̗̜̺̭̻̥͚͙̝̦̲̱͉͖͉̰̦͎̫̣̼͎͍̠̮͓̹̹͉̤̰̗̙͕͇͔̱͕̭͈̳̗̭͔̘̖̺̮̜̠͖̘͓̳͕̟̠̱̫̤͓͔̘̰̲͙͍͇̙͎̣̼̗̖͙̯͉̠̟͈͍͕̪͓̝̩̦̖̹̼̠̘̮͚̟͉̺̜͍͓̯̳̱̻͕̣̳͉̻̭̭̱͍̪̩̭̺͕̺̼̥̪͖̦̟͎̻̰"
       }

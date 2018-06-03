@@ -54,7 +54,7 @@ const styles = {
         borderColor: '#fff'
     },
     textSelected: {
-        color: '#01B9FF'
+        color: '#30499B'
     },
     textUnselected: {
         color: '#fff'

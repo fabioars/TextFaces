@@ -7,7 +7,7 @@ class Main extends Component {
     render() {
         return (
             <View style={{ flex: 1 }}>
-                <StatusBar backgroundColor="#018BBF" barStyle="light-content" />
+                <StatusBar backgroundColor="#30499B" barStyle="light-content" />
                 <Router />
             </View>
         );

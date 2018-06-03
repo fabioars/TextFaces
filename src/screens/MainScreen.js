@@ -48,7 +48,7 @@ MainScreen.navigationOptions = {
     title: 'FontFaces',
     headerTintColor: '#fff',
     headerStyle: {
-        backgroundColor: '#01B9FF',
+        backgroundColor: '#30499B',
         elevation: 0
     }
 };

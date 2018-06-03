@@ -1,4 +1,4 @@
-package com.textfaces;
+package br.com.textfaces;
 
 import com.facebook.react.ReactActivity;
 

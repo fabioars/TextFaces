@@ -20,7 +20,7 @@ const styles = {
         justifyContent: 'center',
         alignItems: 'center',
         flexDirection: 'row',
-        backgroundColor: '#D667CD',
+        backgroundColor: '#F0A32F',
         flex: 1
     }
 };

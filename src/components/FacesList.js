@@ -1,35 +1,20 @@
 import React, { Component } from 'react';
-import { Text, ListView, Clipboard, Share, ToastAndroid } from 'react-native';
+import { Text, FlatList, Clipboard, Share, ToastAndroid } from 'react-native';
 import Card from './Card';
 
 import clipboard from '../img/clipboard.png';
 import share from '../img/share.png';
 
 class FacesList extends Component {
-    componentWillMount() {
-        this.createDataSource(this.props.faces);
-    }
-
-    componentWillReceiveProps(nextProps) {
-        this.createDataSource(nextProps.faces);
-    }
-
-    createDataSource(faces) {
-        const ds = new ListView.DataSource({
-            rowHasChanged: (r1, r2) => r1 !== r2
-        });
-
-        this.dataSource = ds.cloneWithRows(faces);
-    }
-
-    renderFaces({ art }) {
+    
+    renderFaces({ item }) {
         const actions = {
             list: [
                 {
                     name: 'SHARE',
                     icon: share,
                     key: 'share',
-                    value: art,
+                    value: item.art,
                     callback: ({ value }) => {
                         Share.share(
                             {
@@ -46,10 +31,10 @@ class FacesList extends Component {
                     name: 'COPY',
                     icon: clipboard,
                     key: 'copy',
-                    value: art,
+                    value: item.art,
                     callback: ({ value }) => {
                         Clipboard.setString(value);
-                        ToastAndroid.show('Copied', ToastAndroid.SHORT);
+                        ToastAndroid.show('Copied!', ToastAndroid.SHORT);
                     }
                 }
             ]
@@ -57,16 +42,18 @@ class FacesList extends Component {
 
         return (
             <Card actions={actions}>
-                <Text style={styles.facesStyle}>{art}</Text>
+                <Text style={styles.facesStyle}>{item.art}</Text>
             </Card>
         );
     }
     render() {
         return (
-            <ListView
+            <FlatList
                 style={this.props.style}
-                dataSource={this.dataSource}
-                renderRow={this.renderFaces}
+                data={this.props.faces}
+                renderItem={this.renderFaces}
+                numColumns={2}
+                keyExtractor={item => item.id}
             />
         );
     }
@@ -74,7 +61,7 @@ class FacesList extends Component {
 
 const styles = {
     facesStyle: {
-        fontSize: 32,
+        fontSize: 14,
         color: '#444'
     }
 };
