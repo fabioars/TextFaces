@@ -1,4 +1,5 @@
 # TextFaces - Melhores que emojis
+[![Build status](https://build.appcenter.ms/v0.1/apps/51c9e636-0216-4aa4-b885-8f888d3f9264/branches/master/badge)](https://appcenter.ms)
 
 Reações para mandar para seus amigos
 App para compartilhar reações com seus amigos
