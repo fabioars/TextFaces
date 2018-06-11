@@ -115,11 +115,6 @@ android {
             include "armeabi-v7a", "x86"
         }
     }
-    buildTypes {
-        release {
-            signingConfig signingConfigs.releaseSigningConfig
-        }
-    }
     // applicationVariants are e.g. debug, release
     applicationVariants.all { variant ->
         variant.outputs.each { output ->
