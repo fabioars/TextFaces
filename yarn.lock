@@ -124,11 +124,11 @@ appcenter-analytics@^1.5.1:
   dependencies:
     appcenter "1.5.1"
 
-appcenter-crashes@^1.5.1:
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/appcenter-crashes/-/appcenter-crashes-1.5.1.tgz#8240a6286565ffc27c4ed48b1eb0fa59144255e9"
+appcenter-crashes@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/appcenter-crashes/-/appcenter-crashes-2.0.0.tgz#fed86774e90c5a0d6ac93c3d3130009e1d81f2d2"
   dependencies:
-    appcenter "1.5.1"
+    appcenter "2.0.0"
 
 appcenter-link-scripts@1.5.1:
   version "1.5.1"
@@ -142,11 +142,28 @@ appcenter-link-scripts@1.5.1:
     which "^1.2.11"
     xcode "^1.0.0"
 
+appcenter-link-scripts@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/appcenter-link-scripts/-/appcenter-link-scripts-2.0.0.tgz#7fcdf59359655a0950bba1281a9ad804745999df"
+  dependencies:
+    debug "^2.2.0"
+    glob "^5.0.15"
+    mkdirp "^0.5.1"
+    plist "^3.0.1"
+    which "^1.2.11"
+    xcode "^2.0.0"
+
 appcenter@1.5.1, appcenter@^1.5.1:
   version "1.5.1"
   resolved "https://registry.yarnpkg.com/appcenter/-/appcenter-1.5.1.tgz#2b8ac2f56f1babf4f04f9d096aea9e8ca1a67431"
   dependencies:
     appcenter-link-scripts "1.5.1"
+
+appcenter@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/appcenter/-/appcenter-2.0.0.tgz#df24d914b05b3e0f41e5662f18d3740af032cd4d"
+  dependencies:
+    appcenter-link-scripts "2.0.0"
 
 append-transform@^0.4.0:
   version "0.4.0"
@@ -4637,6 +4654,14 @@ simple-plist@^0.2.1:
     bplist-parser "0.1.1"
     plist "2.0.1"
 
+simple-plist@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/simple-plist/-/simple-plist-1.0.0.tgz#bed3085633b22f371e111f45d159a1ccf94b81eb"
+  dependencies:
+    bplist-creator "0.0.7"
+    bplist-parser "0.1.1"
+    plist "^3.0.1"
+
 slash@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
@@ -5065,6 +5090,10 @@ uuid@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.1.0.tgz#3dd3d3e790abc24d7b0d3a034ffababe28ebbc04"
 
+uuid@^3.3.2:
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
+
 validate-npm-package-license@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/validate-npm-package-license/-/validate-npm-package-license-3.0.1.tgz#2804babe712ad3379459acfbe24746ab2c303fbc"
@@ -5255,6 +5284,13 @@ xcode@^1.0.0:
     pegjs "^0.10.0"
     simple-plist "^0.2.1"
     uuid "3.0.1"
+
+xcode@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/xcode/-/xcode-2.0.0.tgz#134f1f94c26fbfe8a9aaa9724bfb2772419da1a2"
+  dependencies:
+    simple-plist "^1.0.0"
+    uuid "^3.3.2"
 
 xml-name-validator@^2.0.1:
   version "2.0.1"

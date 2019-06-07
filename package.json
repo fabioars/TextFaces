@@ -20,7 +20,7 @@
   "dependencies": {
     "appcenter": "^1.5.1",
     "appcenter-analytics": "^1.5.1",
-    "appcenter-crashes": "^1.5.1",
+    "appcenter-crashes": "^2.0.0",
     "react": "16.2.0",
     "react-native": "0.53.0",
     "react-navigation": "^1.0.0-beta.11"
