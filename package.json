@@ -23,7 +23,7 @@
     "appcenter-crashes": "^1.5.1",
     "react": "16.2.0",
     "react-native": "0.53.0",
-    "react-navigation": "^1.0.0-beta.11"
+    "react-navigation": "^3.11.0"
   },
   "rnpm": {
     "assets": [
