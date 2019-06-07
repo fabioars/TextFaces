@@ -18,7 +18,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "appcenter": "^1.5.1",
+    "appcenter": "^2.0.0",
     "appcenter-analytics": "^1.5.1",
     "appcenter-crashes": "^1.5.1",
     "react": "16.2.0",
