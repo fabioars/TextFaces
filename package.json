@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "appcenter": "^1.5.1",
-    "appcenter-analytics": "^1.5.1",
+    "appcenter-analytics": "^2.1.0",
     "appcenter-crashes": "^1.5.1",
     "react": "16.2.0",
     "react-native": "0.53.0",
